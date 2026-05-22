@@ -1,1 +1,1 @@
-echo "# nguyen thi ngoc anh 2421030189" >> README.md
+Nguyễn Thị Ngọc Ánh 2421030189
